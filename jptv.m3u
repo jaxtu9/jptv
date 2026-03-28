@@ -1,6 +1,6 @@
 #EXTVLCOPT:network-caching=1000
 http://nl.utako.moe:8000/radio
-#EXTINF:24,program
+#EXTINF:24,Radio
 #EXTVLCOPT:network-caching=1000
 https://nl.utako.moe/NHK_G/index.m3u8
 #EXTINF:0,NHK E
